@@ -81,3 +81,16 @@ p { font-size: 14px !important; line-height: 22px !important; }
 #mce-EMAIL {
   width: 95%;
 }
+
+/*	--------------------------------------------------
+	:: University
+	-------------------------------------------------- */
+#disco_algolab {
+ min-height: 95px; /* 75px image + 20px padding */
+}
+#disco_algolab img {
+  border: 1px solid #E10000;
+  float: left;
+  margin-right: 1em;
+  width: 75px;
+}

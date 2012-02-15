@@ -1,4 +1,4 @@
-{:	data{I"/call/:ET{:default{	:	lastI"É(<!DOCTYPE html>
+{:	data{I"/call/:ET{:default{	:	lastI"^*<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -83,7 +83,7 @@
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza </br>
+            Piazza della Scienza <br />
             20126 Milano
           </h4>
 				</div>
@@ -163,6 +163,14 @@
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
             </div>
           </form>
+        </div>
+        <!-- Disco and AlgoLab-->
+        <div class="panel" id="disco_algolab">
+          <img src="/images/disco.gif" alt="Dipartimento di Informatica Sistemistica e Comunicazione"/>
+          <p>
+            In collaboration with <a href="http://www.disco.unimib.it" target="_blank">DISCO</a> and
+            <a href="http://www.algolab.eu/" target="_blank">AlgoLab</a>.
+          </p>
         </div>
         <!--End mc_embed_signup-->
 				<dl class="nice tabs vertical hide-on-phones">
@@ -301,7 +309,7 @@
                     'header':'show'});
   z7x3k1.display();
 </script>;T:	post@
-I"/help/;T{;{	;I"E(<!DOCTYPE html>
+I"/help/;T{;{	;I"Ú)<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -386,7 +394,7 @@ I"/help/;T{;{	;I"E(<!DOCTYPE html>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza </br>
+            Piazza della Scienza <br />
             20126 Milano
           </h4>
 				</div>
@@ -455,6 +463,14 @@ I"/help/;T{;{	;I"E(<!DOCTYPE html>
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
             </div>
           </form>
+        </div>
+        <!-- Disco and AlgoLab-->
+        <div class="panel" id="disco_algolab">
+          <img src="/images/disco.gif" alt="Dipartimento di Informatica Sistemistica e Comunicazione"/>
+          <p>
+            In collaboration with <a href="http://www.disco.unimib.it" target="_blank">DISCO</a> and
+            <a href="http://www.algolab.eu/" target="_blank">AlgoLab</a>.
+          </p>
         </div>
         <!--End mc_embed_signup-->
 				<dl class="nice tabs vertical hide-on-phones">
@@ -571,7 +587,7 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
 <h3>Spread the word.</h3>
 <p class="section">
   Make sure your friends, collegues and classmates won't miss the appointment: let them know about us on twitter, facebook, blog&hellip;
-</p>;T;@I"/;T{;{	;I"+<!DOCTYPE html>
+</p>;T;@I"/;T{;{	;I"¬,<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -656,7 +672,7 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza </br>
+            Piazza della Scienza <br />
             20126 Milano
           </h4>
 				</div>
@@ -745,6 +761,14 @@ I"]<h3>Help us as a volunteer <small>(Ruby mastery not required)</small></h3>
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
             </div>
           </form>
+        </div>
+        <!-- Disco and AlgoLab-->
+        <div class="panel" id="disco_algolab">
+          <img src="/images/disco.gif" alt="Dipartimento di Informatica Sistemistica e Comunicazione"/>
+          <p>
+            In collaboration with <a href="http://www.disco.unimib.it" target="_blank">DISCO</a> and
+            <a href="http://www.algolab.eu/" target="_blank">AlgoLab</a>.
+          </p>
         </div>
         <!--End mc_embed_signup-->
 				<dl class="nice tabs vertical hide-on-phones">
@@ -901,7 +925,7 @@ I"<h3>Why are we here?</h3>
 <h3>Students and professors</h3>
 <p class="section">
   Somehow still in school? <b>We want you!</b> Help us to spread the voice & rock that boring java course! <a href="/info/" >Join us  â†’</a>
-</p>;T;@I"/info/;T{;{	;I"%,<!DOCTYPE html>
+</p>;T;@I"/info/;T{;{	;I"º-<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -986,7 +1010,7 @@ I"<h3>Why are we here?</h3>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza </br>
+            Piazza della Scienza <br />
             20126 Milano
           </h4>
 				</div>
@@ -1075,6 +1099,14 @@ I"<h3>Why are we here?</h3>
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
             </div>
           </form>
+        </div>
+        <!-- Disco and AlgoLab-->
+        <div class="panel" id="disco_algolab">
+          <img src="/images/disco.gif" alt="Dipartimento di Informatica Sistemistica e Comunicazione"/>
+          <p>
+            In collaboration with <a href="http://www.disco.unimib.it" target="_blank">DISCO</a> and
+            <a href="http://www.algolab.eu/" target="_blank">AlgoLab</a>.
+          </p>
         </div>
         <!--End mc_embed_signup-->
 				<dl class="nice tabs vertical hide-on-phones">
@@ -1231,7 +1263,7 @@ I")<h3>Info about the conference?</h3>
 <!--<p class="section">-->
   <!--Lorem is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.-->
   <!--<a href="#" >Find more  â†’</a>-->
-<!--</p>-->;T;@I"/register/;T{;{	;I"}*<!DOCTYPE html>
+<!--</p>-->;T;@I"/register/;T{;{	;I",<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1316,7 +1348,7 @@ I")<h3>Info about the conference?</h3>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza </br>
+            Piazza della Scienza <br />
             20126 Milano
           </h4>
 				</div>
@@ -1388,6 +1420,14 @@ I")<h3>Info about the conference?</h3>
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
             </div>
           </form>
+        </div>
+        <!-- Disco and AlgoLab-->
+        <div class="panel" id="disco_algolab">
+          <img src="/images/disco.gif" alt="Dipartimento di Informatica Sistemistica e Comunicazione"/>
+          <p>
+            In collaboration with <a href="http://www.disco.unimib.it" target="_blank">DISCO</a> and
+            <a href="http://www.algolab.eu/" target="_blank">AlgoLab</a>.
+          </p>
         </div>
         <!--End mc_embed_signup-->
 				<dl class="nice tabs vertical hide-on-phones">
@@ -1524,22 +1564,22 @@ I"“<h3>Where are tickets?</h3>
   </url>
   <url>
     <loc>http://rubyday.it/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-16</lastmod>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://rubyday.it/info/</loc>
-    <lastmod>2012-02-10</lastmod>
+    <lastmod>2012-02-15</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/register/</loc>
-    <lastmod>2012-01-15</lastmod>
+    <lastmod>2012-01-16</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://rubyday.it/sitemap.xml</loc>
-    <lastmod>2011-12-29</lastmod>
+    <lastmod>2012-01-12</lastmod>
   </url>
   <url>
     <loc>http://rubyday.it/sponsor/</loc>
@@ -1550,7 +1590,7 @@ I"“<h3>Where are tickets?</h3>
 
 ;T;	I"<%= xml_sitemap %>
 ;T;
-@(I"/sponsor/;T{;{	;I"Ù,<!DOCTYPE html>
+@(I"/sponsor/;T{;{	;I"n.<!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
@@ -1635,7 +1675,7 @@ I"“<h3>Where are tickets?</h3>
             </a>
           </h1>
           <h4 class="subheader">
-            Piazza della Scienza </br>
+            Piazza della Scienza <br />
             20126 Milano
           </h4>
 				</div>
@@ -1739,6 +1779,14 @@ developers one on one. The following sponsorship opportunities are available.
               <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small red button radius">
             </div>
           </form>
+        </div>
+        <!-- Disco and AlgoLab-->
+        <div class="panel" id="disco_algolab">
+          <img src="/images/disco.gif" alt="Dipartimento di Informatica Sistemistica e Comunicazione"/>
+          <p>
+            In collaboration with <a href="http://www.disco.unimib.it" target="_blank">DISCO</a> and
+            <a href="http://www.algolab.eu/" target="_blank">AlgoLab</a>.
+          </p>
         </div>
         <!--End mc_embed_signup-->
 				<dl class="nice tabs vertical hide-on-phones">
